@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"aps","l":"Alimento"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"aps","l":"AtacadoCorreia"},{"p":"aps","l":"Brinquedo"},{"p":"aps","l":"EstoqueInsuficienteException"},{"p":"aps","l":"Produto"},{"p":"aps","l":"Vendavel"}];updateSearchResults();
